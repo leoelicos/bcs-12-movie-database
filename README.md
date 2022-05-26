@@ -42,7 +42,7 @@ I made this app to learn about `sql` including creating, reading, updating and d
 
 ## Video Demo
 
--  ***
+https://user-images.githubusercontent.com/99461390/170400648-e9cc2c47-8fdf-4c52-9e60-3d98ee983d24.mp4
 
 ## Screenshots
 
