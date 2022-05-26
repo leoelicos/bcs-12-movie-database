@@ -14,12 +14,12 @@ I made this app to learn about `sql` including creating, reading, updating and d
 
 ## Installation
 
-| Steps                | Details                                                            |
-| -------------------- | ------------------------------------------------------------------ |
-| Install Node.js      | Download it at https://nodejs.org/en/                              |
-| Install Mysql2       | Download it at \_\_\_                                              |
-| Clone this repo      | ` git clone https://github.com/leoelicos/bcs-12-movie-databse.git` |
-| Install dependencies | ` npm install`                                                     |
+| Steps                | Details                                                             |
+| -------------------- | ------------------------------------------------------------------- |
+| Install Node.js      | Download it at https://nodejs.org/en/                               |
+| Install Mysql2       | Download it at \_\_\_                                               |
+| Clone this repo      | ` git clone https://github.com/leoelicos/bcs-12-movie-database.git` |
+| Install dependencies | ` npm install`                                                      |
 
 ## Usage
 
@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/99461390/170400648-e9cc2c47-8fdf-4c52-
 ### Screenshot: Schema
 
 ![Schema](https://user-images.githubusercontent.com/99461390/170399608-cc1ef5de-a41d-4134-8a3c-12c18bdc170f.png)
- 
+
 ### Screenshot: Insomnia testing
 
 ![Insomnia testing](https://user-images.githubusercontent.com/99461390/170399527-6e4980a4-afea-4a78-9d68-91370f6ad16e.jpg)
