@@ -1,7 +1,5 @@
 # Movie Database
 
-Node.js, Express.js, Mysql2
-
 ![Node.js](https://img.shields.io/badge/16.15.0%20LTS-0?label=Node.js&style=for-the-badge&labelColor=white&color=black) ![Express.js](https://img.shields.io/badge/4.18.1-0?label=Express&style=for-the-badge&labelColor=white&color=black) ![Mysql2](https://img.shields.io/badge/2.3.3-0?label=Mysql2&style=for-the-badge&labelColor=white&color=black)
 
 ## Introduction
