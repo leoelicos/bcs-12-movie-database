@@ -12,12 +12,16 @@ I made this app to learn about `sql` including creating, reading, updating and d
 
 ## Installation
 
-| Steps                | Details                                                             |
-| -------------------- | ------------------------------------------------------------------- |
-| Install Node.js      | Download it at https://nodejs.org/en/                               |
-| Install Mysql2       | Download it at \_\_\_                                               |
-| Clone this repo      | ` git clone https://github.com/leoelicos/bcs-12-movie-database.git` |
-| Install dependencies | ` npm install`                                                      |
+| Steps                        | Details                                                                                                |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Install `Node.js `           | https://nodejs.org/en/                                                                                 |
+| Install `Mysql`              | https://dev.mysql.com/downloads/installer/                                                             |
+| Install `Insomnia`           | https://insomnia.rest/download                                                                         |
+| Clone this repo              | ` git clone https://github.com/leoelicos/bcs-12-movie-database.git`                                    |
+| Go inside                    | ` cd bcs-12-movie-database`                                                                            |
+| Initialize and seed database | `cd db`<br>`mysql -u root -p`<br>`{password}`<br>`source schema.sql;`<br>`source seeds.sql;`<br>`exit` |
+| Install dependencies         | ` npm install`                                                                                         |
+| Test in Insomnia             | See [Usage](#usage)                                                                                    |
 
 ## Usage
 
