@@ -48,11 +48,11 @@ I made this app to learn about `sql` including creating, reading, updating and d
 
 ### Screenshot: Schema
 
-![Schema]()
-
+![Schema](https://user-images.githubusercontent.com/99461390/170399608-cc1ef5de-a41d-4134-8a3c-12c18bdc170f.png)
+ 
 ### Screenshot: Insomnia testing
 
-![Insomnia testing](https://user-images.githubusercontent.com/99461390/170288533-c910593c-26b5-41a6-8b28-eb937c316cf0.jpg) ![Heroku testing - alert](https://user-images.githubusercontent.com/99461390/170288546-8ec84157-dd59-4eab-9935-8edceab217d9.jpg)
+![Insomnia testing](https://user-images.githubusercontent.com/99461390/170399527-6e4980a4-afea-4a78-9d68-91370f6ad16e.jpg)
 
 ## Credits
 
