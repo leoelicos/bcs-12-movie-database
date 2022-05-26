@@ -25,14 +25,20 @@ I made this app to learn about `sql` including creating, reading, updating and d
 
 ### Insomnia
 
-| Steps                              | Details                             |
-| ---------------------------------- | ----------------------------------- |
-| Start the server from command line | `npm start`                         |
-| Go to the root                     | GET `localhost:3001`                |
-| View all movies                    | GET `/api/movies`                   |
-| Add a movie                        | POST `/api/add-movie` Body: `{}`    |
-| Update a movie                     | PUT `/api/update-review` Body: `{}` |
-| Delete a movie                     | DELETE `/api/movie/:id`             |
+| Steps                              | Details                                                                                                       |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| Start the server from command line | `npm start`                                                                                                   |
+| Root endpoint                      | GET `localhost:3001`                                                                                          |
+| Search all movies                  | GET `/api/movies`                                                                                             |
+| Find a specific movie              | GET `/api/movie/:id`                                                                                          |
+| Search all reviews                 | GET `/api/reviews`                                                                                            |
+| Find a specific review             | GET `/api/review/:id`                                                                                         |
+| Add a movie                        | <p>POST `/api/add-movie`</p><p>Body: `{`</p><p>`"movie_name": STRING`</p><p>`}`</p>                           |
+| Add a review                       | <p>POST `/api/add-review`</p><p>Body: `{`</p><p>`"movie_id": INTEGER,`</p><p>`"review": STRING`</p><p>`}`</p> |
+| Update a movie                     | <p>PUT `/api/update-movie`</p><p>Body: `{`</p><p>`"id": INTEGER`</p><p>`"movie_name": STRING`</p><p>`}`</p>   |
+| Update a review                    | <p>PUT `/api/update-review`</p><p>Body: `{`</p><p>`"id": INTEGER`</p><p>`"review": STRING`</p><p>`}`</p>      |
+| Delete a movie                     | DELETE `/api/movie/:id`                                                                                       |
+| Delete a review                    | DELETE `/api/review/:id`                                                                                      |
 
 ## Video Demo
 
